@@ -1,0 +1,10 @@
+fastapi==0.110.2
+uvicorn[standard]==0.29.0
+langchain==0.2.6
+langchain-openai==0.1.14
+langchain-community==0.2.6
+openai>=1.32.0,<2.0.0
+spacy==3.7.4
+numpy<2.0.0
+python-dotenv==1.0.1
+
